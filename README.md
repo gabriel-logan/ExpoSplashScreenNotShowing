@@ -38,3 +38,7 @@ The splash screen is not shown
 Using this reproducible example - https://github.com/gabriel-logan/ExpoSplashScreenNotShowing/tree/manualset
 
 The splash screen is shown, but I have to manually set the splash screen in the app.json file
+
+## Manual Setup Branch
+
+[Manual Setup Branch](https://github.com/gabriel-logan/ExpoSplashScreenNotShowing/tree/manualset)

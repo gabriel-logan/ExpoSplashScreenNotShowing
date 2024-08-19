@@ -2,4 +2,4 @@
 
 See the README
 
-[README](https://github.com/gabriel-logan/ExpoSplashScreenNotShowing/blob/manualset/README.md)
+[README](https://github.com/gabriel-logan/ExpoSplashScreenNotShowing/blob/main/README.md)

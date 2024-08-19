@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "todelete",
+    "slug": "todelete",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#040d07"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#040d07"
+      },
+      "package": "com.gabriellogan.todelete"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0737e55e-861c-4b57-932b-9f7b2cbb5057"
+      }
+    }
+  }
+}
